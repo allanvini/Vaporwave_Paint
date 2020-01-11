@@ -1,0 +1,32 @@
+.box {
+    justify-content: start;
+}
+
+body {
+    background-image: url(src/images/bg.jpg);
+    background-size: 90%;
+    background-position: center;
+    margin-left: 18%;
+    margin-right: 0%;
+    margin-top: 2%;
+}
+
+#title {
+    margin-left: 15%;
+    z-index: 2;
+    color: #6EFCBB;
+    font-weight: bold;
+    font-size: 32pt;
+    font-family: sans-serif;
+    text-shadow: 4px 4px 0px #4AB18E;
+}
+
+#panel {
+    opacity: 90%;
+    margin-top: 0%;
+    margin-left: 0%;
+    border-style: inset;
+    border-color: rgb(212, 210, 210);
+    border-width: 5px;
+    background-color: white;
+}
